@@ -1,1 +1,1 @@
-# 4-MURTADHA28-4-Decimal-to-Binary-Conversion
+//OUTPUT : Binary of 30 is 11110
