@@ -18,3 +18,5 @@ function decimalToBinary($number) {
 $decimalNumber = 30;
 $binaryResult = decimalToBinary($decimalNumber);
 echo "Binary of $decimalNumber is $binaryResult";
+
+//OUTPUT : Binary of 30 is 11110
